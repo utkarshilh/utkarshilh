@@ -1,7 +1,8 @@
 ### Hi there 👋  I am Utkarsh 
+<hr>
 
-- 🔭 I’m currently working on ```bash something interesting ```
-- 🌱 I’m currently learning ```bash Backend ```
+- 🔭 I’m currently working on ```something interesting ```
+- 🌱 I’m currently learning ``` Backend ```
 
 <!--
 **utkarshilh/utkarshilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
