@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on ```something interesting ```
 - 🌱 I’m currently learning ``` Backend ```
 
+### Technologies and Tools I use
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,js,react)](https://skillicons.dev)
 <!--
 **utkarshilh/utkarshilh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
