@@ -1,4 +1,4 @@
-### Hi there 👋  I am Utkarsh 
+### Hi there 👋  I am Utkarsh Tripathi
 <hr>
 
 - 🔭 I’m currently working on ```something interesting ```
