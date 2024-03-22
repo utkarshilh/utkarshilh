@@ -1,7 +1,7 @@
 ### Hi there 👋  I am Utkarsh Tripathi
 <hr>
 
-- 🔭 I’m currently working on ```something interesting ```
+- 🔭 I’m currently working on ```the project Attendify```
 - 🌱 I’m currently learning ``` Backend ```
 
 ### Leetcode Stats
