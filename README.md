@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 I’m currently working on ```the project Attendify```
-- 🌱 I’m currently learning ``` Backend ```
+- 🌱 I’m currently learning ``` Backend ```  
 
 ### Leetcode Stats
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=utkarshilh&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
