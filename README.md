@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on ```project Attendify```
+- 🔭 I’m currently working on ```project Attendify``` , ```Django```, ```Tailwind CSS ```
 - 🌱 I’m currently learning ``` Backend ```
 - 💬 Ask me about **React.js, Node.js MySql**
 
