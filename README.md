@@ -8,8 +8,8 @@
 
 
 
-- 🔭 I’m currently working on ```project Attendify``` , ```Django```, ```Tailwind CSS ```
-- 🌱 I’m currently learning ``` Backend ```
+- 🔭 I’m currently working on ```project Attendify``` 
+- 🌱 I’m currently learning ``` Backend ```, ```Django```, ```Tailwind CSS ``` by doing 
 - 💬 Ask me about **React.js, Node.js MySql**
 
 ### Leetcode Stats
